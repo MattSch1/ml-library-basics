@@ -1,2 +1,2 @@
-# sklearn-pipeline
-Setting up a general modeling pipeline for Sklearn
+# ml-library-basics 
+Repo going through some of the common functionalities of sklearn, tensorflow, and pytorch 
